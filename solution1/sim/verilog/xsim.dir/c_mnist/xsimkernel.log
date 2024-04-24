@@ -1,0 +1,7 @@
+Running: xsim.dir/c_mnist/xsimk.exe -simmode gui -wdb c_mnist.wdb -simrunnum 0 -socket 51327
+Design successfully loaded
+Design Loading Memory Usage: 49244 KB (Peak: 49244 KB)
+Design Loading CPU Usage: 61 ms
+Simulation completed
+Simulation Memory Usage: 57180 KB (Peak: 57180 KB)
+Simulation CPU Usage: 3511593 ms

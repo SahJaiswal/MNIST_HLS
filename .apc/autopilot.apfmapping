@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="k2c_tensor_include.h" path="C:\vivado\avinav_mnist\include\k2c_tensor_include.h"/>
+    <originFiles name="c_mnist.h" path="C:\vivado\avinav_mnist\c_mnist.h"/>
+    <originFiles name="c_mnist.c" path="C:\vivado\avinav_mnist\c_mnist.c"/>
+  </source>
+  <testbench>
+    <originFiles name="c_mnist_test_suite.c" path="C:\vivado\avinav_mnist\c_mnist_test_suite.c"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

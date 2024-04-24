@@ -1,0 +1,14 @@
+c_mnist_fadd_32nsbzo
+c_mnist_fmul_32nsbAo
+c_mnist_fcmp_32nsbBo
+c_mnist_mux_1664_bCo
+c_mnist_flatten_4bkb
+c_mnist_dense_6_orcU
+c_mnist_dense_6_bHfu
+c_mnist_dense_6_kIfE
+c_mnist_dense_7_kZio
+c_mnist_dense_7_b0iy
+c_mnist_dense_8_k1iI
+c_mnist_dense_8_b2iS
+c_mnist_dropout_43i2
+c_mnist

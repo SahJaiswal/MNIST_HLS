@@ -1,0 +1,9 @@
+{
+	"version": "1.0",
+	"modules": {
+		"c_mnist": {
+			"proto_instances": {
+			}
+		}
+	}
+}
